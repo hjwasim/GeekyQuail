@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('./styles/fonts.scss');
+
+body {
+    font-family: 'Euclid Circular A';
+}
+a {
+    all: unset;
+    cursor: pointer;
+}
